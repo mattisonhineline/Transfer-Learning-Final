@@ -6,6 +6,8 @@ In this repository you may find the following documents:
 2. A pdf copy of the ipynb file
 3. A link to the presentation video and demo
 
+Think to my Kaggle competition notebook: https://www.kaggle.com/code/mattison/transfer-learning-identifying-species
+
 Data Sources: 
 1. Competition Link: https://www.kaggle.com/competitions/happy-whale-and-dolphin
 2. Data Source: https://www.kaggle.com/competitions/happy-whale-and-dolphin/data
